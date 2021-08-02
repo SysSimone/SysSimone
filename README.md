@@ -4,7 +4,7 @@ Olá eu sou a Simone Balzan
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 React native, React.Js
-- 📫 Contrate-me no e-mail: sy.Balzan@gmail.com
+- 📫 Contrate-me no e-mail: sy.balzan@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div>
